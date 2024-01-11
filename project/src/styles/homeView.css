@@ -1,0 +1,89 @@
+
+.hero-section {
+padding: 50px;
+    text-align: center;
+  }
+  
+  .hero-section h1 {
+    font-size: 2.5em;
+  }
+  
+  .hero-section p {
+    font-size: 1.2em;
+  }
+  
+  .hero-section button {
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+ 
+
+  .popular-teams-section {
+    padding: 50px;
+    text-align: center;
+    background: #f0f0f0;
+  }
+  
+  .popular-teams-section h2 {
+    font-size: 2em;
+  }
+  
+  .popular-team,.retro-kits {
+    margin: 20px;
+    display: flex;
+    gap:50px;
+    justify-content: space-evenly;
+    text-align: center;
+
+  }
+  
+  .popular-team img {
+  
+    border-radius: 5px;
+    width: 200px;
+  }
+  
+  .popular-team p ,.retro-section p{
+    font-size: 1.1em;
+  }
+  
+
+  .explore-more-section {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .explore-more-section h2 {
+    font-size: 2em;
+  }
+  
+  .explore-more-section p,.social-media-section p{
+    font-size: 1.2em;
+  }
+  
+  .explore-more-section button {
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #2ecc71;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  img{
+    width: 200px;
+    height: 200px;
+  }
+
+  .social-icons img{
+    height:60px;
+    width: auto;
+    margin-left: 10px;
+  }

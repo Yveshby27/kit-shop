@@ -1,0 +1,41 @@
+
+
+
+.history-section {
+  padding: 50px;
+  text-align: center;
+}
+
+.history-section h2 {
+  font-size: 2em;
+}
+
+.history-section p {
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+
+.mission-values-section {
+  padding: 50px;
+  text-align: center;
+}
+
+.mission-values-section h2 {
+  font-size: 2em;
+}
+
+.mission-values-section p {
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+.mission-values-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.mission-values-section li {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #3498db;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap:100px;
+  }
+  
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  
+  }
+  nav a:hover{
+    color: #e74c3c;
+  }
+
+  .active-link{
+    background-color: #e74c3c;
+    pointer-events: none;
+    padding: 20px;
+  }
+  
